@@ -19,6 +19,21 @@
 ]]></content>
   </entry>
   <entry>
+    <title>个人简历</title>
+    <url>/2020/01/02/ownerinfo/</url>
+    <content><![CDATA[<!--![个人相片](/img/myself.jpg "梅香寒")-->
+<p>TEL： +86-139-1601-9420<br>Email： <a href="mailto:xianghan_mei@126.com">xianghan_mei@126.com</a><br>Sex：男<br>Present Address：上   海<br>Date of brith：1995-12<br>Focus：物联网、人工智能、云计算</p>
+<h4 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h4><blockquote>
+<p>2015年9月-2018年7月        国家开放大学            物流管理             大学专科<br>2019年9月-2021年7月        东北林业大学         计算机科学与技术         本科在读</p>
+</blockquote>
+<h4 id="技能涉猎"><a href="#技能涉猎" class="headerlink" title="技能涉猎"></a>技能涉猎</h4><p>编程语言：C\C++、Java、Python、Javascript；<br>J2EE框架：SSM、SpingBoot、SpringCloud；<br>数  据 库：MySQL、Redis、HBase<br>MQ：JMS、Kafka、RabbitMQ；<br>项目构建：Maven；<br>代码托管：Git、SVN；<br>协议规范：TCP、HTTP、RPC、RESTful；<br>计算框架：MR、Spark、Flink<br>数据迁移：Flume、Sqoop<br>自动构建：Jenkins<br>开发环境：IDEA、Eclipse、Visual Stdio</p>
+<h4 id="自我评价："><a href="#自我评价：" class="headerlink" title="自我评价："></a>自我评价：</h4><p>保持对技术的探索热情，常体验开源社区一些产品，把一些理解写下来或发到博客，乐于分享，乐于学习。</p>
+]]></content>
+      <tags>
+        <tag>个人信息</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hi,hexo</title>
     <url>/2018/01/06/hi-hexo/</url>
     <content><![CDATA[<p>###关于测试hexo的第一篇文章</p>
